@@ -45,10 +45,10 @@ In Example 4.1 to 4.5, each vertex is assigned a unique number to distinguish in
 Besides, I store the keys and the attributes as two lists if the items is a sequence and more
 than one. 
 For instance:
-([5,2],[‘x1’,’perpendicular’];0,0;0,2) is the same as (5,x1;2,perpendicular;0,0;0,2)
-([8,4],[‘x2’,v4];0,0;0,0) is the same as (8,x2;4,v4;0,0;0,0)
-([6,2],[‘x3’,v5];0,0;0,0) is the same as (6,x3;2,v5;0,0;0,0)
-([8,7],[‘x2’,’perpendicular’];0,0;0,0) is the same as (8,x2;7,perpendicular;0,0;0,0)
+* ([5,2],[‘x1’,’perpendicular’];0,0;0,2) is the same as (5,x1;2,perpendicular;0,0;0,2)
+* ([8,4],[‘x2’,v4];0,0;0,0) is the same as (8,x2;4,v4;0,0;0,0)
+* ([6,2],[‘x3’,v5];0,0;0,0) is the same as (6,x3;2,v5;0,0;0,0)
+* ([8,7],[‘x2’,’perpendicular’];0,0;0,0) is the same as (8,x2;7,perpendicular;0,0;0,0)
 
 ### General idea:
 The program is based on project-CS412-8 Section 3: Algorithms including the algorithm1
