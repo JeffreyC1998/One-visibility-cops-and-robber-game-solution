@@ -32,7 +32,7 @@ These output were used in some of the screen shot of examples.
 
 ### Notice:
 In Example 4.1 to 4.5, each vertex is assigned a unique number to distinguish in each tree.
-![alt text](C:\Users\cheng\OneDrive\Desktop\University-Courses\Fall 2020\cs412\project\Readme\图片7)
+![alt text](https://github.com/JeffreyC1998/One-visibility-cops-and-robber-game-solution/blob/main/%E5%9B%BE%E7%89%87%207.png)
 
 Besides, I store the keys and the attributes as two lists if the items is a sequence and more
 than one. 
