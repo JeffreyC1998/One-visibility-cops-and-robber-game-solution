@@ -51,7 +51,6 @@ For instance:
 * ([8,7],[‘x2’,’perpendicular’];0,0;0,0) is the same as (8,x2;7,perpendicular;0,0;0,0)
 
 ### General idea:
-The program is based on project-CS412-8 Section 3: Algorithms including the algorithm1
-and function compute-label. The label is declared as a class type with six properties: keys, attributes, k-weakly-branching indicator, k-weakly-counter, k-pre-branching indicator, and
-k-initial-counter in Python code. Each step is clearly indicated in the code. The main part of algorithm1 is the while loop
-that is from line 233 to 360. The function compute-label is from line 186 to 228
+The program is based on project-CS412-8 Section 3: Algorithms including the algorithm1.
+and function compute-label. The label is declared as a class type with six properties: keys, attributes, k-weakly-branching indicator, k-weakly-counter, k-pre-branching indicator, and k-initial-counter in Python code. 
+Each step is clearly indicated in the code. The main part of algorithm1 is the while loop that is from line 233 to 360. The function compute-label is from line 186 to 228
